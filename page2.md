@@ -1,0 +1,5 @@
+# hello
+
+this is another page
+
+[go home](/)
