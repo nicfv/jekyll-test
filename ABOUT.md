@@ -2,4 +2,4 @@
 
 this is another page
 
-[go home](/)
+[go home](./README.md)
